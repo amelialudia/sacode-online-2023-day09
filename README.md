@@ -18,11 +18,11 @@ https://github.com/amelialudia/sacode-online-2023-day09/blob/main/index2.html
 ## ScreenShoot Hasil Belajar 
 ### Demo Index 1
  Gambar 1 
- <img src="./screenshoot/1.jpg">
+ <img src="./screenshoot/1.png">
 
 ### Demo Index 2
 Gambar 2 
-<img src="./screenshoot/1.jpg">
+<img src="./screenshoot/2.png">
 
 
 
